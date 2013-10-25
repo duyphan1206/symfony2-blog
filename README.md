@@ -4,9 +4,8 @@ Symfony2 Blog Tutorials
 To run blog site please run command :
  
 1. git clone : https://github.com/duyphanasnet/symfony2-blog.git
-2. install composer 
+2. install composer : composer install 
 
-DOCUMENTS: 
 [1]:  http://symfony.com/doc/2.3/book/installation.html
 [2]:  http://getcomposer.org/
 [3]:  http://symfony.com/download
