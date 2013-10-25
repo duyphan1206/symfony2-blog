@@ -1,14 +1,12 @@
-Symfony Standard Edition
+Symfony2 Blog Tutorials
 ========================
 
-Welcome to the Symfony Standard Edition - a fully-functional Symfony2
-application that you can use as the skeleton for your new applications.
-
-Please run command :
+To run blog site please run command :
  
 1. git clone : https://github.com/duyphanasnet/symfony2-blog.git
 2. install composer 
 
+DOCUMENTS: 
 [1]:  http://symfony.com/doc/2.3/book/installation.html
 [2]:  http://getcomposer.org/
 [3]:  http://symfony.com/download
